@@ -1,6 +1,5 @@
 {
   "homepage": "https://alexmajewski.github.io/cg-resources/",
-  "base": "/cg-resources/",
   "name": "resource-list",
   "private": true,
   "version": "0.0.0",

@@ -1,5 +1,11 @@
 export const data = [
     {
+        "title": "Natural Materials in Houdini | Brickland | OFFF HIVE 2024",
+        "author": "Brickland Studio",
+        "link": "https://www.youtube.com/watch?v=uxcprOuSiqU",
+        "tags": ["houdini", "free", "talk", "mineral", "rock", "procedural", "generation", "cloth", "fashion"]
+    },
+    {
         "title": "XK studio: Morphing Reality | XK studio | OFFF HIVE 2024",
         "author": "XK Studio",
         "link": "https://www.youtube.com/watch?v=DSgxi06vZI0",
