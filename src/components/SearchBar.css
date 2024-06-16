@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Liberation Mono';
+    src: url('../assets/LiberationMono-Regular.ttf');
+  }
+.input-wrapper {
+    background-color: white;
+    width: 100%;
+    border-radius: 6px;
+    height: 2.5rem;
+    box-sizing: border-box;
+    /* margin: 2em; */
+    padding: 0 15px;
+    /* box-shadow: 0px 0px 8px #ddd; */
+    display: flex;
+    align-items:center;
+}
+
+input {
+    font-family: 'Hubot Sans';
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+    color: black;
+}
+
+input:focus {
+    outline: none;
+}
+
+.hint {
+    font-size: 0.9em;
+    /* text-transform: uppercase; */
+    opacity: 35%;
+}
+
+.mono {
+    font-family: 'Liberation Mono';
+}
