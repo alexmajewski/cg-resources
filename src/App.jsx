@@ -11,7 +11,7 @@ function App() {
     <>  
         <div id="header">
           <h2 id="main-title">CG resources</h2>
-          <p>This is my personal curated list of CG tutorials, courses and tools revolving around Houdini.</p>
+          <p>This is my personal curated list of CG tutorials, courses, talks, posts and tools revolving around Houdini.</p>
           <SearchBar setResults={setResults} />
         </div>
         

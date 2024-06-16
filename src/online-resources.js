@@ -1,5 +1,29 @@
 export const data = [
     {
+        "title": "Efficient techniques for realistic small scale Tendrils, Droplets and Sheets in Houdini",
+        "author": "Jacktone Okore",
+        "link": "https://www.youtube.com/watch?v=rxxR3hFYqLg",
+        "tags": ["houdini", "free", "tutorial", "fluid", "flip", "splash", "droplet"]
+    },
+    {
+        "title": "When the Drop Becomes a Splash | Karolina Sereikaite | Paris HIVE 2023",
+        "author": "Karolina Sereikaite",
+        "link": "https://www.youtube.com/watch?v=Pp9NEOzHkxM",
+        "tags": ["houdini", "free", "talk", "fluid", "flip", "splash"]
+    },
+    {
+        "title": "[Houdini Tutorial] 0036 Thermoforming (Slow version)",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/watch?v=YNMr0mRTgIs",
+        "tags": ["houdini", "free", "tutorial", "technical", "vex", "effect"]
+    },
+    {   
+        "title": "[Houdini Tutorial] 0037 Edge Bundling (Slow version)",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/watch?v=0teBLrKZ8gU",
+        "tags": ["houdini", "free", "tutorial", "vex", "hair", "technical", "abstract"]
+    },
+    {
         "title": "Natural Materials in Houdini | Brickland | OFFF HIVE 2024",
         "author": "Brickland Studio",
         "link": "https://www.youtube.com/watch?v=uxcprOuSiqU",
@@ -9,31 +33,31 @@ export const data = [
         "title": "XK studio: Morphing Reality | XK studio | OFFF HIVE 2024",
         "author": "XK Studio",
         "link": "https://www.youtube.com/watch?v=DSgxi06vZI0",
-        "tags": ["houdini", "free", "tutorial", "abstract", "music", "flower", "nature", "distortion"]
+        "tags": ["houdini", "free", "talk", "abstract", "music", "flower", "nature", "distortion"]
     },
     {
         "title": "Design x Stimulation | Lukas Vojir & Alexa Sirbu | Houdini HIVE Worldwide",
         "author": "XK Studio",
         "link": "https://www.youtube.com/watch?v=jeuo5DjRsq0",
-        "tags": ["houdini", "free", "tutorial", "animation", "vellum", "nature", "flower", "abstract", "hair"]
+        "tags": ["houdini", "free", "talk", "animation", "vellum", "nature", "flower", "abstract", "hair"]
     },
     {
         "title": "Mograph Liquids | Mark Fancher | OFFF HIVE",
         "author": "Mark Fancher",
         "link": "https://www.youtube.com/watch?v=lYu6ZYiNgyA",
-        "tags": ["houdini", "free", "tutorial", "animation", "vdb", "morph", "growth", "spread", "commercial", "ad"]
+        "tags": ["houdini", "free", "talk", "animation", "vdb", "morph", "growth", "spread", "commercial", "ad"]
     },
     {
         "title": "Shape Shifting | Panoply | OFFF HIVE",
         "author": "Simon Holmedal",
         "link": "https://www.youtube.com/watch?v=A6haWzFj_Qg",
-        "tags": ["houdini", "free", "tutorial", "animation", "cops", "morphing", "technical", "simulation", "spread", "infection", "ripples", "vdb", "growth", "commercial", "ad"]
+        "tags": ["houdini", "free", "talk", "animation", "cops", "morphing", "technical", "simulation", "spread", "infection", "ripples", "vdb", "growth", "commercial", "ad"]
     },
     {
         "title": "ReConnect 2022 | XAPKOHHEH",
         "author": "XAPKOHHEH",
         "link": "https://www.youtube.com/watch?v=UPaP7r2dVYs",
-        "tags": ["houdini", "free", "tutorial", "rbd", "bullet", "simulation"]
+        "tags": ["houdini", "free", "talk", "rbd", "bullet", "simulation"]
     },
     {
         "title": "Abstract Heightfield Terrain | Live Stream 2022 09 06",

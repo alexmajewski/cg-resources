@@ -10,8 +10,8 @@ export const SearchBar = ({setResults}) => {
         // console.log(data)
         const keywords = value.toLowerCase().split(" ").filter(word => word)
 
-        const includeWords = keywords.filter(word => !word.startsWith('^'))
-        const excludeWords = keywords.filter(word => word.startsWith('^')).map(word => word.substring(1))
+        const includeWords = keywords.filter(word => !word.startsWith('-'))
+        const excludeWords = keywords.filter(word => word.startsWith('-')).map(word => word.substring(1))
 
         const results = data.filter((item) => {
             const includesAll = includeWords.every(word => item.tags.some(tag => tag.includes(word)));
@@ -41,7 +41,8 @@ export const SearchBar = ({setResults}) => {
                     value={input} 
                     onChange={(e) => handleChange(e.target.value)}></input>
             </div>
-            <p className="mono hint">This search uses only tags. Search for things such as "vellum" or "vdb". To remove a tag/keyword add a ^ prefix (^redshift, ^simulation, etc..).</p>
+            <p className="mono hint">This search uses only tags. Search for things such as "vellum" or "nature". To remove a tag/keyword add a - prefix (-redshift, -simulation, etc..).
+            <br/><br/>free|paid - tutorial|course|talk</p>
         </div>
     )
 }
