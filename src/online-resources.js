@@ -1,9 +1,87 @@
 export const data = [
     {
+        "title": "Houdini Algorithmic Live #026 - Deformed Gyroid",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/live/1LFLjqf9I8w?si=jYUYfuf7gMXGqUpi",
+        "tags": ["houdini", "tutorial", "free", "gyroid", "technical", "organic", "structural", "pattern"]
+    },
+    {
+        "title": "Houdini Algorithmic Live #092 - Organic Branching",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/live/_6O64gvTr9M?si=FrOwqkd9X7qS_hmC",
+        "tags": ["houdini", "tutorial", "free", "organic", "effect", "technical", "nature"]
+    },
+    {
+        "title": "Hyperrealism. Tactility. Emotion. | Alexa Sirbu + Lukas Vojir | OFFF HIVE 2022",
+        "author": "XK Studio",
+        "link": "https://www.youtube.com/watch?v=acVpyIVqmxM",
+        "tags": ["houdini", "talk", "free", "structural", "nature", "vellum", "simulation", ]
+    },
+    {
+        "title": "Flower Projects | Paul Esteves | MucHUG",
+        "author": "Paul Esteves",
+        "link": "https://www.youtube.com/watch?v=U1k1qmim3iA",
+        "tags": ["houdini", "talk", "free", "flower", "nature", "vellum", "simulation"]
+    },
+    {
+        "title": "For Loop - Fractal Ornament",
+        "author": "Entagma",
+        "link": "https://www.youtube.com/watch?v=tXY-O_893cs",
+        "tags": ["houdini", "tutorial", "free", "fractal", "ornament", "loop", "technical"]
+    },
+    {
+        "title": "Foam Sprayers Part 1",
+        "author": "John Kunz",
+        "link": "https://www.youtube.com/watch?v=Zd1PIjUXyhU",
+        "tags": ["houdini", "tutorial", "free", "flip", "simulation", "foam", "spray"]
+    },
+    {
+        "title": "Houdini Algorithmic Live #116 - Canadian Smocking",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/live/F6pRx3a1yY4",
+        "tags": ["houdini", "tutorial", "free", "vellum", "simulation", "textile", "pattern", "fabric", "cloth"]
+    },
+    {
+        "title": "Python States | Paul Ambrosiussen | Games Workshop",
+        "author": "Paul Ambrosiussen",
+        "link": "https://www.youtube.com/watch?v=H2_38R-V9Gw",
+        "tags": ["houdini", "talk", "free", "python", "states"]
+    },
+    {
+        "title": "Compositing for 3D artists - Learn compositing fundamentals (In Fusion)",
+        "author": "Tim van Helsdingen",
+        "link": "https://www.youtube.com/watch?v=4ViXzsgqte8",
+        "tags": ["fusion", "course", "free", "compositing"]
+    },
+    {   
+        "title": "Flower Garden | Carl Krause | Paris HIVE 2023",
+        "author": "Carl Krause",
+        "link": "https://www.youtube.com/watch?v=9bsb-WBGPTc",
+        "tags": ["houdini", "talk", "free", "flower", "nature", "vellum", "kinefx", "simulation"]
+    },
+    {
+        "title": "Houdini Algorithmic Live #090 - Fibonacci Flower",
+        "author": "Junichiro Horikawa",
+        "link": "https://www.youtube.com/live/nPWQpQQgWJM",
+        "tags": ["houdini", "tutorial", "free", "fibonacci", "flower", "nature", "technical", "vex"]
+    },
+    {
+        "title": "Building Custom Solvers in Houdini - 05 - VDB Advection",
+        "author": "Tim van Helsdingen",
+        "link": "https://www.youtube.com/watch?v=4Wt9nqu37lw",
+        "tags": ["houdini", "tutorial", "free", "vdb", "advection"]
+    },
+    {
+        "title": "Microsolvers and DOPs Data | Fuat Yüksel | SIGGRAPH HIVE 2023",
+        "author": "Fuat Yüksel",
+        "link": "https://www.youtube.com/watch?v=d3DZt1prjzI",
+        "tags": ["houdini", "talk", "free", "dops", "simulation", "microsolvers", "solver"]
+    },
+    {
         "title": "How Make Xk style shoe use vellum in Houdini | Houdini tutorial",
         "author": "Bao Motion Design",
         "link": "https://www.youtube.com/watch?v=BZx_V2ci1yc",
-        "tags": ["houdini", "tutorial", "free", "vellum", "textile", "fabric", "fiber", "tactile", "cloth", "hair", "shoe"]
+        "tags": ["houdini", "tutorial", "free", "vellum", "simulation", "textile", "fabric", "fiber", "tactile", "cloth", "hair", "shoe"]
     },
     {
         "title": "Houdini Tutorial - Stick Textures To Fluids",
@@ -21,13 +99,13 @@ export const data = [
         "title": "Houdini Redshift - Vellum softbody tearing tutorial - Part I - Softbody sim",
         "author": "Resilient Picture Company",
         "link": "https://www.youtube.com/watch?v=2EqLi2r1Ccw",
-        "tags": ["houdini", "course", "free", "vellum", "tear"]
+        "tags": ["houdini", "course", "free", "vellum", "simulation", "tear"]
     },
     {
         "title": "[Tutorial] Purple Sponge",
         "author": "Alexander Eskin",
         "link": "https://www.youtube.com/watch?v=O5cFGKp0n_A",
-        "tags": ["houdini", "tutorial", "free", "vellum", "redshift", "grains", "hair", "textile", "fiber", "tactile"]
+        "tags": ["houdini", "tutorial", "free", "vellum", "simulation", "redshift", "grains", "hair", "textile", "fiber", "tactile"]
     },
     {
         "title": "PDG as a Pipeline Tool for Small Teams | Pavel Smirnov | SIGGRAPH 2019",
@@ -52,19 +130,19 @@ export const data = [
         "title": "Discovering Houdini Vellum 1",
         "author": "Arsen Margaryan",
         "link": "https://www.sidefx.com/tutorials/discovering-houdini-vellum/",
-        "tags": ["houdini", "course", "free", "vellum", "basics"]
+        "tags": ["houdini", "course", "free", "vellum", "basics", "simulation"]
     },
     {
         "title": "Efficient techniques for realistic small scale Tendrils, Droplets and Sheets in Houdini",
         "author": "Jacktone Okore",
         "link": "https://www.youtube.com/watch?v=rxxR3hFYqLg",
-        "tags": ["houdini", "free", "tutorial", "fluid", "flip", "splash", "droplet"]
+        "tags": ["houdini", "free", "tutorial", "fluid", "simulation", "flip", "splash", "droplet"]
     },
     {
         "title": "When the Drop Becomes a Splash | Karolina Sereikaite | Paris HIVE 2023",
         "author": "Karolina Sereikaite",
         "link": "https://www.youtube.com/watch?v=Pp9NEOzHkxM",
-        "tags": ["houdini", "free", "talk", "fluid", "flip", "splash"]
+        "tags": ["houdini", "free", "talk", "fluid", "flip", "simulation", "splash"]
     },
     {
         "title": "[Houdini Tutorial] 0036 Thermoforming (Slow version)",
@@ -94,7 +172,7 @@ export const data = [
         "title": "Design x Stimulation | Lukas Vojir & Alexa Sirbu | Houdini HIVE Worldwide",
         "author": "XK Studio",
         "link": "https://www.youtube.com/watch?v=jeuo5DjRsq0",
-        "tags": ["houdini", "free", "talk", "animation", "vellum", "nature", "flower", "abstract", "hair"]
+        "tags": ["houdini", "free", "talk", "animation", "vellum", "simulation", "nature", "flower", "abstract", "hair"]
     },
     {
         "title": "Mograph Liquids | Mark Fancher | OFFF HIVE",
