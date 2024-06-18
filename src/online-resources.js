@@ -1,5 +1,60 @@
 export const data = [
     {
+        "title": "How Make Xk style shoe use vellum in Houdini | Houdini tutorial",
+        "author": "Bao Motion Design",
+        "link": "https://www.youtube.com/watch?v=BZx_V2ci1yc",
+        "tags": ["houdini", "tutorial", "free", "vellum", "textile", "fabric", "fiber", "tactile", "cloth", "hair", "shoe"]
+    },
+    {
+        "title": "Houdini Tutorial - Stick Textures To Fluids",
+        "author": "Tim van Helsdingen",
+        "link": "https://www.youtube.com/watch?v=7ho2S5u7NV0",
+        "tags": ["houdini", "tutorial", "free", "uv", "flip"]
+    },
+    {
+        "title": "VDB advection",
+        "author": "Jose Leon Molfino",
+        "link": "https://cmolfino.gumroad.com/l/pyrjg",
+        "tags": ["houdini", "scene", "free", "hip", "vdb", "advection"]
+    },
+    {
+        "title": "Houdini Redshift - Vellum softbody tearing tutorial - Part I - Softbody sim",
+        "author": "Resilient Picture Company",
+        "link": "https://www.youtube.com/watch?v=2EqLi2r1Ccw",
+        "tags": ["houdini", "course", "free", "vellum", "tear"]
+    },
+    {
+        "title": "[Tutorial] Purple Sponge",
+        "author": "Alexander Eskin",
+        "link": "https://www.youtube.com/watch?v=O5cFGKp0n_A",
+        "tags": ["houdini", "tutorial", "free", "vellum", "redshift", "grains", "hair", "textile", "fiber", "tactile"]
+    },
+    {
+        "title": "PDG as a Pipeline Tool for Small Teams | Pavel Smirnov | SIGGRAPH 2019",
+        "author": "Pavel Smirnov",
+        "link": "https://www.youtube.com/watch?v=t0bhiCoDR8M",
+        "tags": ["houdini", "talk", "free", "pdg", "tops"]
+
+    },
+    {
+        "title": "Project Pegasus | Flora",
+        "author": "Houdini",
+        "link": "https://www.youtube.com/watch?v=CUdvIy7Hog4&list=PLXNFA1EysfYlfIsvctl-smZyWh-rG__Ee&index=1",
+        "tags": ["houdini", "course", "free", "hda", "tool", "nature", "tree", "foliage"]
+    },
+    {
+        "title": "Project Pegasus | Landscape Workflow",
+        "author": "Houdini",
+        "link": "https://www.youtube.com/watch?v=VtckzNxsaQw&list=PLXNFA1EysfYkvwB_N_cWYHKi09_rgSkzM",
+        "tags": ["houdini", "course", "free", "heightfield", "landscape", "environment"]
+    },
+    {
+        "title": "Discovering Houdini Vellum 1",
+        "author": "Arsen Margaryan",
+        "link": "https://www.sidefx.com/tutorials/discovering-houdini-vellum/",
+        "tags": ["houdini", "course", "free", "vellum", "basics"]
+    },
+    {
         "title": "Efficient techniques for realistic small scale Tendrils, Droplets and Sheets in Houdini",
         "author": "Jacktone Okore",
         "link": "https://www.youtube.com/watch?v=rxxR3hFYqLg",
@@ -27,7 +82,7 @@ export const data = [
         "title": "Natural Materials in Houdini | Brickland | OFFF HIVE 2024",
         "author": "Brickland Studio",
         "link": "https://www.youtube.com/watch?v=uxcprOuSiqU",
-        "tags": ["houdini", "free", "talk", "mineral", "rock", "procedural", "generation", "cloth", "fashion"]
+        "tags": ["houdini", "free", "talk", "mineral", "rock", "nature", "procedural", "generation", "cloth", "fashion"]
     },
     {
         "title": "XK studio: Morphing Reality | XK studio | OFFF HIVE 2024",
