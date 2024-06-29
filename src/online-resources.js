@@ -1,5 +1,23 @@
 export const data = [
     {
+        "title": "XK - Studio Projects | XK Studio | OFFF 2023",
+        "author": "XK Studio",
+        "link": "https://www.youtube.com/watch?v=DIrLvjlsB0M",
+        "tags": ["houdini", "talk", "free", "simulation", "vellum", "fashion", "fabric", "fiber", "textile", "thread"]
+    },
+    {
+        "title": "Slices | Matt Ebb | SIGGRAPH HIVE 2023",
+        "author": "Matt Ebb",
+        "link": "https://www.youtube.com/watch?v=WryM1E8E9qs",
+        "tags": ["houdini", "talk", "free", "simulation", "abstract", "4D"]
+    },
+    {
+        "title": "Craftmanship in VFX | Jakub Spacek | OFFF 2023",
+        "author": "Jakub Spacek",
+        "link": "https://www.youtube.com/watch?v=rk4tlFeQPSE",
+        "tags": ["houdini", "talk", "free", "abstract", "simulation", "flip", "fluid", "vellum"]
+    },
+    {
         "title": "Houdini Algorithmic Live #026 - Deformed Gyroid",
         "author": "Junichiro Horikawa",
         "link": "https://www.youtube.com/live/1LFLjqf9I8w?si=jYUYfuf7gMXGqUpi",
